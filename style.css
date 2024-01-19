@@ -21,7 +21,7 @@ body::before {
 }
 
 header {
-    width: 750px;
+    width: 80%;
     margin: 0 auto;
     padding-top: 100px;
     text-align: center;
@@ -43,7 +43,7 @@ header img {
 }
 
 form {
-    width: 750px;
+    width: 80%;
     margin: 0 auto 150px;
     padding-bottom: 64px;
     background: #FFF;
